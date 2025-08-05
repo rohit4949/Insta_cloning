@@ -1,0 +1,19 @@
+h1 {
+  color: grey;
+}
+ul {
+  color: teal;
+  background-color: yellow;
+}
+img {
+  height: 35%;
+}
+.odd {
+  background-color: red;
+}
+.even {
+  background-color: green;
+}
+#Third {
+  background-color: blue;
+}
